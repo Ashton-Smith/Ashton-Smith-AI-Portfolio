@@ -1,5 +1,5 @@
-# L08 Project
+# L10 Agent Framework Project
 
-This project contains notebook based computer vision and AI exercises completed using Python, Jupyter Notebook, and Google Colab.
+This project focuses on AI agent frameworks, notebook based workflows, and practical AI implementation using Python and Jupyter Notebook.
 
-The work demonstrates AI workflows, image related processing, and practical lab based implementation techniques.
+The notebook demonstrates concepts related to AI workflows, automation, reasoning structures, and applied artificial intelligence development.
