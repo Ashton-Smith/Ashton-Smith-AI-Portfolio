@@ -20,7 +20,11 @@ Markdown Documentation
 
 ### ITAI 1378 Computer Vision
 This course focused on computer vision concepts and practical AI development using Python notebooks. Projects include image processing, CNN image classification, AI lab exercises, and notebook based workflow development.
+## Repository Structure
 
+This portfolio is organized by course and project type. Each folder contains project documentation, Jupyter notebooks, and supporting files related to AI and computer vision coursework completed at Houston City College.
+
+The repository includes structured project folders, notebook based assignments, documentation files, and results folders used for visualizations and AI outputs.
 [View ITAI 1378 Projects](ITAI1378)
 
 ## Featured Projects
